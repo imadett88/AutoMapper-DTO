@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\automapperdemo\\automapperdemo\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|solutionrelative:automapperdemo\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\automapperdemo\\automapperdemo\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|solutionrelative:automapperdemo\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\automapperdemo\\automapperdemo\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|solutionrelative:automapperdemo\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\automapperdemo\\automapperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|solutionrelative:automapperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\automapperdemo\\automapperdemo\\walletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB070F39-82E3-47C9-8BFE-51BB27E1D71E}|AutoMapperDemo\\AutoMapperDemo.csproj|solutionrelative:automapperdemo\\walletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapperDemo\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperProfile.cs",
+              "RelativeToolTip": "AutoMapperDemo\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:50:29.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AutoMapperDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\Program.cs",
+              "RelativeToolTip": "AutoMapperDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:40:10.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WalletDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\WalletDTO.cs",
+              "RelativeDocumentMoniker": "AutoMapperDemo\\WalletDTO.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\WalletDTO.cs",
+              "RelativeToolTip": "AutoMapperDemo\\WalletDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:34:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "AutoMapperDemo\\Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "AutoMapperDemo\\Controllers\\WalletController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:25:06.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\Wallet.cs",
+              "RelativeDocumentMoniker": "AutoMapperDemo\\Wallet.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\AutoMapperDemo\\AutoMapperDemo\\Wallet.cs",
+              "RelativeToolTip": "AutoMapperDemo\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:22:13.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
